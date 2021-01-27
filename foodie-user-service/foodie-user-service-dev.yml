@@ -1,5 +1,5 @@
 # 数据库连接串 & 密码
-mysqldb:
+mysql:
   url: 'jdbc:mysql://localhost:3306/foodie-shop-dev?serverTimezone=UTC&useUnicode=true&characterEncoding=UTF-8&autoReconnect=true'
   password: '{cipher}60f303c9b44bd8367935bf927adce8460df76a4ad3ce6a865ea10583a3b46aaf'
 
